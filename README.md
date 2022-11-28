@@ -21,7 +21,6 @@ Demonstrates SQL injection attacks using malicious SQL queries and SQL preventio
 - [What's SQL Injection](#whats-sql-injection)
 - [Technologies](#Technologies)
 - [Installation](#Installation)
-- [Contributors](#Contributors)
 
 ---
 
