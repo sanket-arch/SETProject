@@ -99,9 +99,7 @@ To get the project working, you need to install the following dependencies.
 
 ---
 
-## Contributors
 
-- T Aswin Barath <https://github.com/AswinBarath>
 
 ---
 
